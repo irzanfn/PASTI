@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_dosen_navigation"
+    app:startDestination="@+id/navigation_dosen_pengajuan">
+
+    <fragment
+        android:id="@+id/navigation_dosen_pengajuan"
+        android:name="com.myapp.android.pasti.dosen.DosenPengajuanFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_dosen_pengajuan" />
+
+    <fragment
+        android:id="@+id/navigation_dosen_bimbingan"
+        android:name="com.myapp.android.pasti.dosen.DosenBimbinganFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_dosen_bimbingan" />
+
+    <fragment
+        android:id="@+id/navigation_dosen_profile"
+        android:name="com.myapp.android.pasti.dosen.DosenProfileFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_dosen_profile" />
+</navigation>

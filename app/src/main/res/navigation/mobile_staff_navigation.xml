@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_staff_navigation"
+    app:startDestination="@+id/navigation_staff_syarat">
+
+    <fragment
+        android:id="@+id/navigation_staff_syarat"
+        android:name="com.myapp.android.pasti.staff.StaffSyaratFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_staff_syarat" />
+
+    <fragment
+        android:id="@+id/navigation_staff_formulir"
+        android:name="com.myapp.android.pasti.staff.StaffFormulirFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_staff_formulir" />
+
+    <fragment
+        android:id="@+id/navigation_staff_profile"
+        android:name="com.myapp.android.pasti.staff.StaffProfileFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_staff_profile" />
+</navigation>

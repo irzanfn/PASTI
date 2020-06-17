@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    tools:context=".mahasiswa.MahasiswaLampiranActivity">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:text="Lampiran" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:text= "Lampiran yang diserahkan dimasukan dalam map ditulis NRP dan Nama. \n 1. Buku Proposal Eksemplar jilid Plastik \n 2. Buku Bimbingan Fotocopy \n 3. Bukti pembayaran sidang proposal \n\nMAP \n 1. S1-TI (map Merah)\n 2. S1-SI (map Hijau)\n 3. D3-SI (map Kuning)" />
+</LinearLayout>

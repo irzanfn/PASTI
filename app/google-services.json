@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "587431948945",
+    "firebase_url": "https://pasti-f4dd2.firebaseio.com",
+    "project_id": "pasti-f4dd2",
+    "storage_bucket": "pasti-f4dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587431948945:android:b6adc67d9fd2bbac654530",
+        "android_client_info": {
+          "package_name": "com.myapp.android.pasti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587431948945-iifd6paskhrgb6uh83p5rf014fq9l0ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoSEg1coksStYA9OKhoQJxkq-UbqFCweA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587431948945-iifd6paskhrgb6uh83p5rf014fq9l0ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#FF8400</color>
+    <color name="color_primary_dark">#C66700</color>
+    <color name="color_primary_light">#FFB564</color>
+    <color name="color_secondary">#73BF3D</color>
+    <color name="color_secondary_dark">#3D830B</color>
+    <color name="color_secondary_light">#B6EB91</color>
+    <color name="colo_grayscale_white">#ffffff</color>
+    <color name="colo_grayscale_normal">#DADADA</color>
+    <color name="colo_grayscale_light">#EEEEEE</color>
+    <color name="color_black_draker">#000000</color>
+    <color name="background">#FFE4C6</color>
+</resources>

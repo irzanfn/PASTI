@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PASTI</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_faq">FAQ</string>
+    <string name="title_profile">Profil</string>
+    <string name="textview">TextView</string>
+    <string-array name="pembimbing">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+    <string name="title_activity_staff_main">StaffMainActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_dosen_main">DosenMainActivity</string>
+</resources>
