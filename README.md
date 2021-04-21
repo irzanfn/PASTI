@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/irzanfn/PASTI">
-    <img src="![image](https://user-images.githubusercontent.com/67045123/115549344-bf39cc00-a2d2-11eb-932b-f688be41aeef.png)" alt="Logo" width="320" height="320">
+    <img src="UPNVJ.png" alt="Logo" width="320" height="320">
   </a>
 
   <h3 align="center">Aplikasi Pendaftaran STI (PASTI)</h3>
